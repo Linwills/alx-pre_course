@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "school"
-hi
+echo "The school is open!"
